@@ -1,0 +1,15 @@
+/Volumes/DATOS/ISTEA/CURSADAS2021/Web/SolucionPrueba/Datos/bin/Debug/net5.0/Datos.deps.json
+/Volumes/DATOS/ISTEA/CURSADAS2021/Web/SolucionPrueba/Datos/bin/Debug/net5.0/Datos.runtimeconfig.json
+/Volumes/DATOS/ISTEA/CURSADAS2021/Web/SolucionPrueba/Datos/bin/Debug/net5.0/Datos.runtimeconfig.dev.json
+/Volumes/DATOS/ISTEA/CURSADAS2021/Web/SolucionPrueba/Datos/bin/Debug/net5.0/Datos.dll
+/Volumes/DATOS/ISTEA/CURSADAS2021/Web/SolucionPrueba/Datos/bin/Debug/net5.0/ref/Datos.dll
+/Volumes/DATOS/ISTEA/CURSADAS2021/Web/SolucionPrueba/Datos/bin/Debug/net5.0/Datos.pdb
+/Volumes/DATOS/ISTEA/CURSADAS2021/Web/SolucionPrueba/Datos/obj/Debug/net5.0/Datos.csprojAssemblyReference.cache
+/Volumes/DATOS/ISTEA/CURSADAS2021/Web/SolucionPrueba/Datos/obj/Debug/net5.0/Datos.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/DATOS/ISTEA/CURSADAS2021/Web/SolucionPrueba/Datos/obj/Debug/net5.0/Datos.AssemblyInfoInputs.cache
+/Volumes/DATOS/ISTEA/CURSADAS2021/Web/SolucionPrueba/Datos/obj/Debug/net5.0/Datos.AssemblyInfo.cs
+/Volumes/DATOS/ISTEA/CURSADAS2021/Web/SolucionPrueba/Datos/obj/Debug/net5.0/Datos.csproj.CoreCompileInputs.cache
+/Volumes/DATOS/ISTEA/CURSADAS2021/Web/SolucionPrueba/Datos/obj/Debug/net5.0/Datos.dll
+/Volumes/DATOS/ISTEA/CURSADAS2021/Web/SolucionPrueba/Datos/obj/Debug/net5.0/ref/Datos.dll
+/Volumes/DATOS/ISTEA/CURSADAS2021/Web/SolucionPrueba/Datos/obj/Debug/net5.0/Datos.pdb
+/Volumes/DATOS/ISTEA/CURSADAS2021/Web/SolucionPrueba/Datos/obj/Debug/net5.0/Datos.genruntimeconfig.cache
